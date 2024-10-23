@@ -1,0 +1,4121 @@
+[CustomCards]
+	[	{
+			"name": "In the Moligarch's Grasp",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/In the Moligarch's Grasp.png"
+			}
+		},
+		{
+			"name": "Snole",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Snail Mole ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Snole.png"
+			}
+		},
+		{
+			"name": "Hack the Frame",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hack the Frame.png"
+			}
+		},
+		{
+			"name": "Spare Parts Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Horror Rogue ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Spare Parts Scavenger.png"
+			}
+		},
+		{
+			"name": "Lucky, Among the Stars",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Dog Scout ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lucky, Among the Stars.png"
+			}
+		},
+		{
+			"name": "Mox Mole",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mox Mole.png"
+			}
+		},
+		{
+			"name": "Happy Cactus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Happy Cactus.png"
+			}
+		},
+		{
+			"name": "Giganta-mole",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Mole ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Giganta-mole.png"
+			}
+		},
+		{
+			"name": "Graph Mole",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mole Fractal ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Graph Mole.png"
+			}
+		},
+		{
+			"name": "Implantability",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Implantability.png"
+			}
+		},
+		{
+			"name": "Obtain Access",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Obtain Access.png"
+			}
+		},
+		{
+			"name": "Meticulous Molechanic",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mole Artificer ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Meticulous Molechanic.png"
+			}
+		},
+		{
+			"name": "Vector Jumper",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Vector Jumper.png"
+			}
+		},
+		{
+			"name": "Clone-Specimen Chamber",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Clone-Specimen Chamber.png"
+			}
+		},
+		{
+			"name": "Confined Basilica",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Confined Basilica.png"
+			}
+		},
+		{
+			"name": "Element Laboratory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Element Laboratory.png"
+			}
+		},
+		{
+			"name": "Exavation Pit",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Exavation Pit.png"
+			}
+		},
+		{
+			"name": "Impact Coliseum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Impact Coliseum.png"
+			}
+		},
+		{
+			"name": "Memorial Hallway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Memorial Hallway.png"
+			}
+		},
+		{
+			"name": "Refitting Forge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Refitting Forge.png"
+			}
+		},
+		{
+			"name": "Research Auditorium",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Research Auditorium.png"
+			}
+		},
+		{
+			"name": "Server Storeroom",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Server Storeroom.png"
+			}
+		},
+		{
+			"name": "Starlit Observatory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Starlit Observatory.png"
+			}
+		},
+		{
+			"name": "Vigorous Haven",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Vigorous Haven.png"
+			}
+		},
+		{
+			"name": "The Cosmos Awaits",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Cosmos Awaits.png"
+			}
+		},
+		{
+			"name": "Eternal Cosmologist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Scientist ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Eternal Cosmologist.png"
+			}
+		},
+		{
+			"name": "Regrafting Ronin",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Human Samurai ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Regrafting Ronin.png"
+			}
+		},
+		{
+			"name": "Breaking the Law of Causality",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Breaking the Law of Causality.png"
+			}
+		},
+		{
+			"name": "Fossil Fighter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fossil Fighter.png"
+			}
+		},
+		{
+			"name": "Rediscovered Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Rediscovered Relic.png"
+			}
+		},
+		{
+			"name": "Symbiosis Crustacean",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Alien Crab ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Symbiosis Crustacean.png"
+			}
+		},
+		{
+			"name": "Scrapped Scrapper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Scrapped Scrapper.png"
+			}
+		},
+		{
+			"name": "Sozeb, Exploiter of Worlds",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sozeb, Exploiter of Worlds.png"
+			}
+		},
+		{
+			"name": "Whirler Disruptor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier Artificer ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Whirler Disruptor.png"
+			}
+		},
+		{
+			"name": "Herbert of the Tweed Cardigan",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Mole Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Herbert of the Tweed Cardigan.png"
+			}
+		},
+		{
+			"name": "Arsenic Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Arsenic Elemental.png"
+			}
+		},
+		{
+			"name": "Resurrection Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Resurrection Module.png"
+			}
+		},
+		{
+			"name": "Sara, the Cutting Edge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Sara ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sara, the Cutting Edge.png"
+			}
+		},
+		{
+			"name": "Cameleopardis Gets Lit",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Cameleopardis Gets Lit.png"
+			}
+		},
+		{
+			"name": "Angel of Momentum",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Angel of Momentum.png"
+			}
+		},
+		{
+			"name": "Antique Messenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Antique Messenger.png"
+			}
+		},
+		{
+			"name": "Tempest, Drawn to Science",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature — Bird Scientist ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Tempest, Drawn to Science.png"
+			}
+		},
+		{
+			"name": "Mountaintop Surveyor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mountaintop Surveyor.png"
+			}
+		},
+		{
+			"name": "Champion of the Pair-Ish",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Champion of the Pair-Ish.png"
+			}
+		},
+		{
+			"name": "Anatomy Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vedalken Scientist ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Anatomy Analyst.png"
+			}
+		},
+		{
+			"name": "Gray Merchant of Algebra",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Gray Merchant of Algebra.png"
+			}
+		},
+		{
+			"name": "Tennessine Elemental",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Tennessine Elemental.png"
+			}
+		},
+		{
+			"name": "MoleDayBot",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Mole Robot ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/MoleDayBot.png"
+			}
+		},
+		{
+			"name": "Sufficiently Advanced Technology",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sufficiently Advanced Technology.png"
+			}
+		},
+		{
+			"name": "Bull Moose",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Elk ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bull Moose_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bull Moose_back.png"
+				}
+			}
+		},
+		{
+			"name": "Bustle of the Medina",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bustle of the Medina_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bustle of the Medina_back.png"
+				}
+			}
+		},
+		{
+			"name": "Crucible Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Crucible Blade_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Crucible Blade_back.png"
+				}
+			}
+		},
+		{
+			"name": "Dance the Night Away",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}",
+			"type": "Instant",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dance the Night Away_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dance the Night Away_back.png"
+				}
+			}
+		},
+		{
+			"name": "Geothermal Excess",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Geothermal Excess_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Geothermal Excess_back.png"
+				}
+			}
+		},
+		{
+			"name": "It Takes Two",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}",
+			"type": "Instant",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/It Takes Two_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/It Takes Two_back.png"
+				}
+			}
+		},
+		{
+			"name": "Outrigger's Catch",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Outrigger's Catch_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Outrigger's Catch_back.png"
+				}
+			}
+		},
+		{
+			"name": "Patchwork Gift",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Patchwork Gift_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Patchwork Gift_back.png"
+				}
+			}
+		},
+		{
+			"name": "Securities Trader",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Securities Trader_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Securities Trader_back.png"
+				}
+			}
+		},
+		{
+			"name": "Temple of Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}",
+			"type": "Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Temple of Flame_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Temple of Flame_back.png"
+				}
+			}
+		},
+		{
+			"name": "Zhliss Tsa, Planetary Guide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Zhliss ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Zhliss Tsa, Planetary Guide.png"
+			}
+		},
+		{
+			"name": "Chaos Theory",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Chaos Theory.png"
+			}
+		},
+		{
+			"name": "Heavy-Duty Excavator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Heavy-Duty Excavator.png"
+			}
+		},
+		{
+			"name": "Digging Doom Engine",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Mole Juggernaut ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Digging Doom Engine.png"
+			}
+		},
+		{
+			"name": "Frankenstein's Profession",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Frankenstein's Profession.png"
+			}
+		},
+		{
+			"name": "Morbid Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Morbid Alchemist.png"
+			}
+		},
+		{
+			"name": "Lab Accident",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lab Accident.png"
+			}
+		},
+		{
+			"name": "Melting Elemental",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Melting Elemental.png"
+			}
+		},
+		{
+			"name": "Theory of Everything",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Theory of Everything.png"
+			}
+		},
+		{
+			"name": "Star Staring Eagle",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Bird ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Star Staring Eagle.png"
+			}
+		},
+		{
+			"name": "The End of the World",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The End of the World.png"
+			}
+		},
+		{
+			"name": "Inventing Spiral",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Inventing Spiral.png"
+			}
+		},
+		{
+			"name": "Intrepid Biologist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Intrepid Biologist.png"
+			}
+		},
+		{
+			"name": "Fermi Paradox",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fermi Paradox.png"
+			}
+		},
+		{
+			"name": "Aha! Moment",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Aha! Moment.png"
+			}
+		},
+		{
+			"name": "Starstrike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Starstrike.png"
+			}
+		},
+		{
+			"name": "Child of the Stars",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Human ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Child of the Stars.png"
+			}
+		},
+		{
+			"name": "Mollusk Caller",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Mole Shaman ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mollusk Caller.png"
+			}
+		},
+		{
+			"name": "A Good Pair Of Running Shoes",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/A Good Pair Of Running Shoes.png"
+			}
+		},
+		{
+			"name": "Space Oddity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Alien Crab ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Space Oddity.png"
+			}
+		},
+		{
+			"name": "Uranium Elemental",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Uranium Elemental.png"
+			}
+		},
+		{
+			"name": "Breached Door",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}",
+			"type": "Enchantment — Room ",
+			"collector_number": "276",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Breached Door.png"
+			}
+		},
+		{
+			"name": "The First Sketch",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The First Sketch.png"
+			}
+		},
+		{
+			"name": "Deep-Cavern Mole",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Mole Horror ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Deep-Cavern Mole.png"
+			}
+		},
+		{
+			"name": "Alchemoleist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Mole Artificer ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Alchemoleist.png"
+			}
+		},
+		{
+			"name": "Terror of the Molehill",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon Mole ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Terror of the Molehill.png"
+			}
+		},
+		{
+			"name": "Break Room",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Break Room.png"
+			}
+		},
+		{
+			"name": "Call of Creation",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Call of Creation.png"
+			}
+		},
+		{
+			"name": "Fragment of the Progeniraffe",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Legendary Creature — Giraffe God ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fragment of the Progeniraffe.png"
+			}
+		},
+		{
+			"name": "Blind Excavator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mole ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Blind Excavator.png"
+			}
+		},
+		{
+			"name": "Herbert Sends His Regards",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Herbert Sends His Regards.png"
+			}
+		},
+		{
+			"name": "Molehill Out of a Mountain",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Molehill Out of a Mountain.png"
+			}
+		},
+		{
+			"name": "Ravenous Talpa",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Mole Horror ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ravenous Talpa.png"
+			}
+		},
+		{
+			"name": "Approach Talpidaevinity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Approach Talpidaevinity.png"
+			}
+		},
+		{
+			"name": "Herbert of the Patchy Overalls",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Mole Wizard ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Herbert of the Patchy Overalls.png"
+			}
+		},
+		{
+			"name": "Little Guy to Little Guy Communication",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Little Guy to Little Guy Communication.png"
+			}
+		},
+		{
+			"name": "Marine Biologist Profession",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Marine Biologist Profession.png"
+			}
+		},
+		{
+			"name": "End of Time to Begin Anew",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Instant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/End of Time to Begin Anew.png"
+			}
+		},
+		{
+			"name": "Sage of Vast Reaches",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sage of Vast Reaches.png"
+			}
+		},
+		{
+			"name": "Lynx, Chief Science Officer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Cat Scientist ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lynx, Chief Science Officer.png"
+			}
+		},
+		{
+			"name": "Bright New Day",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bright New Day.png"
+			}
+		},
+		{
+			"name": "Lucky's Last Journey",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lucky's Last Journey.png"
+			}
+		},
+		{
+			"name": "C",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Enchantment Creature — Elemental ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/C.png"
+			}
+		},
+		{
+			"name": "J3nny, Senior Recycler",
+			"rarity": "mythic",
+			"mana_cost": "{11}",
+			"type": "Legendary Planeswalker — J3nny ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/J3nny, Senior Recycler.png"
+			}
+		},
+		{
+			"name": "Curiosity, On A Mission",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Thopter ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Curiosity, On A Mission.png"
+			}
+		},
+		{
+			"name": "Hedron Satellites",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hedron Satellites.png"
+			}
+		},
+		{
+			"name": "Elefungus",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Elephant ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Elefungus.png"
+			}
+		},
+		{
+			"name": "Camelopardis, the Overseer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Planeswalker — Camelopardis ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Camelopardis, the Overseer.png"
+			}
+		},
+		{
+			"name": "Compulsive Interest",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Compulsive Interest.png"
+			}
+		},
+		{
+			"name": "Muse of the Stars",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Muse of the Stars.png"
+			}
+		},
+		{
+			"name": "Handy Shovel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Handy Shovel.png"
+			}
+		},
+		{
+			"name": "Telephone Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Telephone Tank.png"
+			}
+		},
+		{
+			"name": "1nf3ct10n",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/1nf3ct10n.png"
+			}
+		},
+		{
+			"name": "Sword of Soldiers and Scientists",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sword of Soldiers and Scientists.png"
+			}
+		},
+		{
+			"name": "Para Bolas, Uncharted Evil",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Bolas ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Para Bolas, Uncharted Evil.png"
+			}
+		},
+		{
+			"name": "ExecuteEXE",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/ExecuteEXE.png"
+			}
+		},
+		{
+			"name": "Kraboi, Benthic Bestie",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Kraboi ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Kraboi, Benthic Bestie.png"
+			}
+		},
+		{
+			"name": "The Master Goes To War",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Master Goes To War.png"
+			}
+		},
+		{
+			"name": "The Large Hadron Collider",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Large Hadron Collider.png"
+			}
+		},
+		{
+			"name": "Audioritualists",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Audioritualists.png"
+			}
+		},
+		{
+			"name": "Moles Most Beautiful",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Moles Most Beautiful.png"
+			}
+		},
+		{
+			"name": "Enigmatic Chemist",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Scientist ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Enigmatic Chemist.png"
+			}
+		},
+		{
+			"name": "Arcane Tide",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Leviathan ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Arcane Tide.png"
+			}
+		},
+		{
+			"name": "Galvanizing Engineer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Galvanizing Engineer.png"
+			}
+		},
+		{
+			"name": "Biologeist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Scientist ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Biologeist.png"
+			}
+		},
+		{
+			"name": "Lumped Labour",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lumped Labour.png"
+			}
+		},
+		{
+			"name": "Pillars of Tomorrow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Pillars of Tomorrow.png"
+			}
+		},
+		{
+			"name": "Engineering Grad Student",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Engineering Grad Student.png"
+			}
+		},
+		{
+			"name": "Parasite's Puppet",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Alien Plant Zombie ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Parasite's Puppet.png"
+			}
+		},
+		{
+			"name": "Moleicious Edict",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Moleicious Edict.png"
+			}
+		},
+		{
+			"name": "Omnidrone Technician",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Scientist Artificer ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Omnidrone Technician.png"
+			}
+		},
+		{
+			"name": "Oxygen Elemental",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Oxygen Elemental.png"
+			}
+		},
+		{
+			"name": "Netsearcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Netsearcher.png"
+			}
+		},
+		{
+			"name": "Ancient Agriculture",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ancient Agriculture.png"
+			}
+		},
+		{
+			"name": "Glitch, In the Matrix",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Glitch ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Glitch, In the Matrix.png"
+			}
+		},
+		{
+			"name": "Data-Stack Curator",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot Fish ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Data-Stack Curator.png"
+			}
+		},
+		{
+			"name": "Agent 404",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Planeswalker — 404 ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Agent 404.png"
+			}
+		},
+		{
+			"name": "Bloodflow",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bloodflow.png"
+			}
+		},
+		{
+			"name": "Pyromolecer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mole Artificer ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Pyromolecer.png"
+			}
+		},
+		{
+			"name": "Lothamey, Ruler of Elements",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Elemental Avatar ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lothamey, Ruler of Elements.png"
+			}
+		},
+		{
+			"name": "Texas Instruments Android",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Texas Instruments Android.png"
+			}
+		},
+		{
+			"name": "Music of the Moles",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Music of the Moles.png"
+			}
+		},
+		{
+			"name": "Ecological Apocalypse",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ecological Apocalypse.png"
+			}
+		},
+		{
+			"name": "Factorialize",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Factorialize.png"
+			}
+		},
+		{
+			"name": "Vyn'Ral, Apocalypse Crafter",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Legendary Planeswalker — Vyn’Ral ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Vyn'Ral, Apocalypse Crafter.png"
+			}
+		},
+		{
+			"name": "Uncover Conspiracy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Uncover Conspiracy.png"
+			}
+		},
+		{
+			"name": "Ecology Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ecology Tutor.png"
+			}
+		},
+		{
+			"name": "Deus Ex Machina",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Deus Ex Machina.png"
+			}
+		},
+		{
+			"name": "Celestial Aligner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Siren Wizard ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Celestial Aligner.png"
+			}
+		},
+		{
+			"name": "Commanding Conductor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Commanding Conductor.png"
+			}
+		},
+		{
+			"name": "Earthshake Trumpeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Performer ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Earthshake Trumpeteer.png"
+			}
+		},
+		{
+			"name": "Naut, Suited Up",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Naut ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Naut, Suited Up.png"
+			}
+		},
+		{
+			"name": "Yaka, Reborn Atrocity",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Planeswalker — Yaka ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Yaka, Reborn Atrocity.png"
+			}
+		},
+		{
+			"name": "Faster-Than-Light Traveller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Faster-Than-Light Traveller.png"
+			}
+		},
+		{
+			"name": "Entropy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Elemental ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Entropy.png"
+			}
+		},
+		{
+			"name": "Hello, World",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hello, World.png"
+			}
+		},
+		{
+			"name": "Colossal Dreadnought",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Colossal Dreadnought.png"
+			}
+		},
+		{
+			"name": "Mind–Body Problem",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mind–Body Problem.png"
+			}
+		},
+		{
+			"name": "Ette, Retired Madwoman",
+			"rarity": "mythic",
+			"mana_cost": "{X}{3}{R}",
+			"type": "Legendary Planeswalker — Fletcher ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ette, Retired Madwoman.png"
+			}
+		},
+		{
+			"name": "Stardust Voyager",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct Spirit ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Stardust Voyager.png"
+			}
+		},
+		{
+			"name": "Pascal's School",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Pascal's School.png"
+			}
+		},
+		{
+			"name": "Catalyst Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Cat Scientist ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Catalyst Expert.png"
+			}
+		},
+		{
+			"name": "Tetanus",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Tetanus.png"
+			}
+		},
+		{
+			"name": "Chemicritter Hydron Hawk",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Bird ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Chemicritter Hydron Hawk.png"
+			}
+		},
+		{
+			"name": "Star Room",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}",
+			"type": "Enchantment — Room ",
+			"collector_number": "277",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Star Room.png"
+			}
+		},
+		{
+			"name": "Molly's Findings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Molly's Findings.png"
+			}
+		},
+		{
+			"name": "Abandoned Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Abandoned Tower.png"
+			}
+		},
+		{
+			"name": "Cenotaph of the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Cenotaph of the Fallen.png"
+			}
+		},
+		{
+			"name": "Dais of Naught",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dais of Naught.png"
+			}
+		},
+		{
+			"name": "Edge of the Hellfire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Edge of the Hellfire.png"
+			}
+		},
+		{
+			"name": "Fallout Zone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fallout Zone.png"
+			}
+		},
+		{
+			"name": "Gate to Calamity",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Gate to Calamity.png"
+			}
+		},
+		{
+			"name": "Mortal Caverns",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mortal Caverns.png"
+			}
+		},
+		{
+			"name": "Outlying Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Outlying Wastes.png"
+			}
+		},
+		{
+			"name": "Ruined Power Plant",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ruined Power Plant.png"
+			}
+		},
+		{
+			"name": "Spent Fuel Pool",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Spent Fuel Pool.png"
+			}
+		},
+		{
+			"name": "MORTIS v4.10",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Zombie Assassin ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/MORTIS v4.10.png"
+			}
+		},
+		{
+			"name": "Satellite Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Satellite Technician.png"
+			}
+		},
+		{
+			"name": "Automated Jurisprudence",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Automated Jurisprudence.png"
+			}
+		},
+		{
+			"name": "Carcinisation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Carcinisation.png"
+			}
+		},
+		{
+			"name": "Square-Cube Law",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Square-Cube Law.png"
+			}
+		},
+		{
+			"name": "Levels of the Food Chain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Levels of the Food Chain.png"
+			}
+		},
+		{
+			"name": "Atlas, Ketriel's Opus",
+			"rarity": "mythic",
+			"mana_cost": "{X}{1}{R}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Atlas, Ketriel's Opus.png"
+			}
+		},
+		{
+			"name": "Jackel's Irregulars",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hyena Scouts ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Jackel's Irregulars.png"
+			}
+		},
+		{
+			"name": "Robot Slayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Robot Slayer.png"
+			}
+		},
+		{
+			"name": "Shop Class",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Shop Class.png"
+			}
+		},
+		{
+			"name": "Command Line",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Command Line.png"
+			}
+		},
+		{
+			"name": "Back to School",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery — Lesson ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Back to School.png"
+			}
+		},
+		{
+			"name": "Case of the Flu",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Case ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Case of the Flu.png"
+			}
+		},
+		{
+			"name": "Treasured Tyrannosaur",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Dinosaur Skeleton ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Treasured Tyrannosaur.png"
+			}
+		},
+		{
+			"name": "Averian's Devoted",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Pilot ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Averian's Devoted.png"
+			}
+		},
+		{
+			"name": "Scion of Null Hypotheses",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit Wizard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Scion of Null Hypotheses.png"
+			}
+		},
+		{
+			"name": "Ragavan Typewriter Theory",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ragavan Typewriter Theory.png"
+			}
+		},
+		{
+			"name": "Unnecessary Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Unnecessary Experiment.png"
+			}
+		},
+		{
+			"name": "Unethical Discovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Unethical Discovery.png"
+			}
+		},
+		{
+			"name": "Model of Impulsion",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Model of Impulsion.png"
+			}
+		},
+		{
+			"name": "Model of Creation",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Model of Creation.png"
+			}
+		},
+		{
+			"name": "Heavenly Headmaster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Advisor ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Heavenly Headmaster.png"
+			}
+		},
+		{
+			"name": "Eager Student",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Citizen ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Eager Student.png"
+			}
+		},
+		{
+			"name": "Evolution Father's Tortoise",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Turtle ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Evolution Father's Tortoise.png"
+			}
+		},
+		{
+			"name": "Endoparasitic Wrigglers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Endoparasitic Wrigglers.png"
+			}
+		},
+		{
+			"name": "Intergalactic Revel",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Intergalactic Revel.png"
+			}
+		},
+		{
+			"name": "Quicksilver Warframe",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Quicksilver Warframe.png"
+			}
+		},
+		{
+			"name": "Aki, Starstruck",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Planeswalker — Aki ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Aki, Starstruck.png"
+			}
+		},
+		{
+			"name": "Voyager's Journey",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Voyager's Journey.png"
+			}
+		},
+		{
+			"name": "Creation Myth",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Creation Myth.png"
+			}
+		},
+		{
+			"name": "Pondside Expedition",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Pondside Expedition.png"
+			}
+		},
+		{
+			"name": "The Net of Things",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Net of Things.png"
+			}
+		},
+		{
+			"name": "Cosmic Conduit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Cosmic Artifact",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Cosmic Conduit.png"
+			}
+		},
+		{
+			"name": "Archimedes of Syracuse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Archimedes of Syracuse.png"
+			}
+		},
+		{
+			"name": "Botanical Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Botanical Dimension.png"
+			}
+		},
+		{
+			"name": "Collapsing Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Collapsing Dimension.png"
+			}
+		},
+		{
+			"name": "Conflicted Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Conflicted Dimension.png"
+			}
+		},
+		{
+			"name": "Distorted Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Distorted Dimension.png"
+			}
+		},
+		{
+			"name": "Fissive Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fissive Dimension.png"
+			}
+		},
+		{
+			"name": "Geometric Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Geometric Dimension.png"
+			}
+		},
+		{
+			"name": "Inhospitable Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Inhospitable Dimension.png"
+			}
+		},
+		{
+			"name": "Intrusive Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Intrusive Dimension.png"
+			}
+		},
+		{
+			"name": "Reverent Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Reverent Dimension.png"
+			}
+		},
+		{
+			"name": "Transparent Dimension",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Transparent Dimension.png"
+			}
+		},
+		{
+			"name": "Dumpster Divers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dumpster Divers.png"
+			}
+		},
+		{
+			"name": "Haywire Superposition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Haywire Superposition.png"
+			}
+		},
+		{
+			"name": "Twinbrain Brawlers",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Ooze ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Twinbrain Brawlers.png"
+			}
+		},
+		{
+			"name": "Progenitor Mammal",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Progenitor Mammal.png"
+			}
+		},
+		{
+			"name": "Slow Path to Moleville",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Slow Path to Moleville.png"
+			}
+		},
+		{
+			"name": "Sightless Scrounger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Mole Dinosaur ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sightless Scrounger.png"
+			}
+		},
+		{
+			"name": "Join the Migration",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Join the Migration.png"
+			}
+		},
+		{
+			"name": "Mars Rover",
+			"rarity": "rare",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mars Rover.png"
+			}
+		},
+		{
+			"name": "Rule of Three",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Sorcery — Lesson ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Rule of Three.png"
+			}
+		},
+		{
+			"name": "Unprecedented Outcome",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Unprecedented Outcome.png"
+			}
+		},
+		{
+			"name": "Moligarch's Roboticist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Mole Artificer ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Moligarch's Roboticist.png"
+			}
+		},
+		{
+			"name": "Dangerous Study",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery — Lesson ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dangerous Study.png"
+			}
+		},
+		{
+			"name": "High Speed Rail",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/High Speed Rail.png"
+			}
+		},
+		{
+			"name": "Camelopardis' Merriment",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Camelopardis' Merriment.png"
+			}
+		},
+		{
+			"name": "Hotwire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant — Lesson ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hotwire.png"
+			}
+		},
+		{
+			"name": "Cloudpiercer Herd",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Giraffe ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Cloudpiercer Herd.png"
+			}
+		},
+		{
+			"name": "Kraboi, El Cangrejo Inmortal",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Planeswalker — Kraboi ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Kraboi, El Cangrejo Inmortal.png"
+			}
+		},
+		{
+			"name": "Codename COUCH",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Codename COUCH.png"
+			}
+		},
+		{
+			"name": "Double Helix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Double Helix.png"
+			}
+		},
+		{
+			"name": "The Master, Transcendent",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Master ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Master, Transcendent.png"
+			}
+		},
+		{
+			"name": "Subterranean Carrier",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Fungus Mole ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Subterranean Carrier.png"
+			}
+		},
+		{
+			"name": "Anzrag and Avogadranus",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Mole God ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Anzrag and Avogadranus.png"
+			}
+		},
+		{
+			"name": "Volumes of Syacruse",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Volumes of Syacruse.png"
+			}
+		},
+		{
+			"name": "Gathering of the Minds",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Gathering of the Minds.png"
+			}
+		},
+		{
+			"name": "Reclaimed Landscape",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Reclaimed Landscape.png"
+			}
+		},
+		{
+			"name": "I Know Where The Light Goes",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/I Know Where The Light Goes.png"
+			}
+		},
+		{
+			"name": "The Master, Formed Anew",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Master, Formed Anew.png"
+			}
+		},
+		{
+			"name": "A World Beyond Humanity",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/A World Beyond Humanity.png"
+			}
+		},
+		{
+			"name": "The Master's Domain",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Master's Domain.png"
+			}
+		},
+		{
+			"name": "Model of Evolution",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Model of Evolution.png"
+			}
+		},
+		{
+			"name": "Model of Analysation",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Model of Analysation.png"
+			}
+		},
+		{
+			"name": "Elusive Okapi",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Antelope ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Elusive Okapi.png"
+			}
+		},
+		{
+			"name": "Curiosity, Traveling Probe",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary  Artifact Creature — Thopter ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Curiosity, Traveling Probe.png"
+			}
+		},
+		{
+			"name": "Dolphin Emulator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dolphin Shapeshifter ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dolphin Emulator.png"
+			}
+		},
+		{
+			"name": "Wandering Tallneck",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Giraffe ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Wandering Tallneck.png"
+			}
+		},
+		{
+			"name": "Wrenn and 602E23",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Wrenn ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Wrenn and 602E23.png"
+			}
+		},
+		{
+			"name": "Hydrogen Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hydrogen Dragon.png"
+			}
+		},
+		{
+			"name": "Sink into Tar",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sink into Tar.png"
+			}
+		},
+		{
+			"name": "Swords to Textbooks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant — Lesson ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Swords to Textbooks.png"
+			}
+		},
+		{
+			"name": "Deep Research",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Deep Research.png"
+			}
+		},
+		{
+			"name": "Farademi the Collector",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Farademi the Collector.png"
+			}
+		},
+		{
+			"name": "Digitize",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Digitize.png"
+			}
+		},
+		{
+			"name": "The Burn Spell of Tomorrow",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Burn Spell of Tomorrow.png"
+			}
+		},
+		{
+			"name": "Satoru's Katana",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Satoru's Katana.png"
+			}
+		},
+		{
+			"name": "Heirloom Weapon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Heirloom Weapon.png"
+			}
+		},
+		{
+			"name": "Ghabanil Honor Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Alien Warrior ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ghabanil Honor Guard.png"
+			}
+		},
+		{
+			"name": "We Were Here",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/We Were Here.png"
+			}
+		},
+		{
+			"name": "Scrapyard Surprise",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Scrapyard Surprise.png"
+			}
+		},
+		{
+			"name": "Magnetic Architect",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Magnetic Architect.png"
+			}
+		},
+		{
+			"name": "Electron Microscope",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Electron Microscope.png"
+			}
+		},
+		{
+			"name": "Bismuther Elemental",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bismuther Elemental.png"
+			}
+		},
+		{
+			"name": "Exoplanet Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Robot Soldier ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Exoplanet Surveyor.png"
+			}
+		},
+		{
+			"name": "Copper Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Copper Elemental.png"
+			}
+		},
+		{
+			"name": "Grazhi and Mr. Snuffles",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Dwarf Scout Mole ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Grazhi and Mr. Snuffles.png"
+			}
+		},
+		{
+			"name": "Young Physicist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Young Physicist.png"
+			}
+		},
+		{
+			"name": "Early Experiment",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Early Experiment.png"
+			}
+		},
+		{
+			"name": "Ratio Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hyena ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ratio Hunter.png"
+			}
+		},
+		{
+			"name": "Herd Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Rhino ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Herd Protector.png"
+			}
+		},
+		{
+			"name": "Lab Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat Scientist ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lab Rat.png"
+			}
+		},
+		{
+			"name": "Airship Genesis IV",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Airship Genesis IV.png"
+			}
+		},
+		{
+			"name": "Morphic Bridge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Morphic Bridge.png"
+			}
+		},
+		{
+			"name": "Bismuth Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bismuth Elemental.png"
+			}
+		},
+		{
+			"name": "J3nny, Refraction Researcher",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Scientist ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/J3nny, Refraction Researcher.png"
+			}
+		},
+		{
+			"name": "Eager Assistant",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Gnome ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Eager Assistant.png"
+			}
+		},
+		{
+			"name": "Voyager, Lost in Space",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Planeswalker — Voyager ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Voyager, Lost in Space.png"
+			}
+		},
+		{
+			"name": "Marco, Astrobotanist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Marco ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Marco, Astrobotanist.png"
+			}
+		},
+		{
+			"name": "The Outlaws of Gravity",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Elemental ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Outlaws of Gravity.png"
+			}
+		},
+		{
+			"name": "Dissections Expert",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Mutant Scientist ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dissections Expert.png"
+			}
+		},
+		{
+			"name": "Savage Hyena",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hyena ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Savage Hyena.png"
+			}
+		},
+		{
+			"name": "Mole in the Ranks",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Mole in the Ranks.png"
+			}
+		},
+		{
+			"name": "Absolute Zero",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Absolute Zero.png"
+			}
+		},
+		{
+			"name": "Anong, Audiowave Rider",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Pilot ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Anong, Audiowave Rider.png"
+			}
+		},
+		{
+			"name": "Terraformer Naut",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Satyr Scientist ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Terraformer Naut.png"
+			}
+		},
+		{
+			"name": "Evil Scientist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Evil Scientist.png"
+			}
+		},
+		{
+			"name": "Origins of Computation",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment Artifact — Saga ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Origins of Computation.png"
+			}
+		},
+		{
+			"name": "SRI Policy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/SRI Policy.png"
+			}
+		},
+		{
+			"name": "Relana, Fossil Hunter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Human Ranger ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Relana, Fossil Hunter.png"
+			}
+		},
+		{
+			"name": "Ette Fletcher, Experimentalist",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ette Fletcher, Experimentalist.png"
+			}
+		},
+		{
+			"name": "Essence Diffraction",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Essence Diffraction.png"
+			}
+		},
+		{
+			"name": "Voyager, Black Hole Envoy",
+			"rarity": "mythic",
+			"mana_cost": "{3}{H/B}{H/B}",
+			"type": "Legendary Artifact Planeswalker — Voyager ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Voyager, Black Hole Envoy.png"
+			}
+		},
+		{
+			"name": "Skullshell Recluse",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Spider ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Skullshell Recluse.png"
+			}
+		},
+		{
+			"name": "Grist, Unextinction Event",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Legendary Planeswalker — Grist ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Grist, Unextinction Event.png"
+			}
+		},
+		{
+			"name": "Accompanying Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Accompanying Planet.png"
+			}
+		},
+		{
+			"name": "Artificial Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Artificial Planet.png"
+			}
+		},
+		{
+			"name": "Fractured Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Fractured Planet.png"
+			}
+		},
+		{
+			"name": "Lightbound Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lightbound Planet.png"
+			}
+		},
+		{
+			"name": "Sigiled Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sigiled Planet.png"
+			}
+		},
+		{
+			"name": "Steaming Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Steaming Planet.png"
+			}
+		},
+		{
+			"name": "Supermassive Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Supermassive Planet.png"
+			}
+		},
+		{
+			"name": "Terraformed Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Terraformed Planet.png"
+			}
+		},
+		{
+			"name": "Uncanny Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Uncanny Planet.png"
+			}
+		},
+		{
+			"name": "Volcanic Planet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Volcanic Planet.png"
+			}
+		},
+		{
+			"name": "Solemn Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact Creature — Robot Scout ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Solemn Surveyor.png"
+			}
+		},
+		{
+			"name": "Rumbling Burrow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Rumbling Burrow.png"
+			}
+		},
+		{
+			"name": "SRI Collector",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/SRI Collector.png"
+			}
+		},
+		{
+			"name": "Covert Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Covert Medic.png"
+			}
+		},
+		{
+			"name": "The Far Reaches",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Far Reaches.png"
+			}
+		},
+		{
+			"name": "Lynx, In the Field",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Cat Scientist ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lynx, In the Field.png"
+			}
+		},
+		{
+			"name": "Gold Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Gold Elemental.png"
+			}
+		},
+		{
+			"name": "Ad Astra Per Aspera",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ad Astra Per Aspera_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ad Astra Per Aspera_back.png"
+				}
+			}
+		},
+		{
+			"name": "Search for Signals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Search for Signals.png"
+			}
+		},
+		{
+			"name": "Contraband Catcher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Contraband Catcher.png"
+			}
+		},
+		{
+			"name": "Indulgent Predator",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Crocodile ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Indulgent Predator.png"
+			}
+		},
+		{
+			"name": "Final Frontier",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Final Frontier.png"
+			}
+		},
+		{
+			"name": "Perfect Solvent",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Perfect Solvent.png"
+			}
+		},
+		{
+			"name": "3D Printer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/3D Printer.png"
+			}
+		},
+		{
+			"name": "Maria, Master of Medicine",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Maria, Master of Medicine.png"
+			}
+		},
+		{
+			"name": "Bone Excavator",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Mole ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Bone Excavator.png"
+			}
+		},
+		{
+			"name": "Nebulous Impulse",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Nebulous Impulse.png"
+			}
+		},
+		{
+			"name": "Magnum Opus",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Magnum Opus.png"
+			}
+		},
+		{
+			"name": "Dawnlit Savannah",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Dawnlit Savannah.png"
+			}
+		},
+		{
+			"name": "Night at the Museum",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Night at the Museum.png"
+			}
+		},
+		{
+			"name": "Thorium Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Thorium Colossus.png"
+			}
+		},
+		{
+			"name": "Caitlyn Zhliss, Exoarchaeologist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Alien Scientist ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Caitlyn Zhliss, Exoarchaeologist.png"
+			}
+		},
+		{
+			"name": "Erlenmeyer Flask",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Erlenmeyer Flask.png"
+			}
+		},
+		{
+			"name": "Defective Compiler",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment Creature — Program ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Defective Compiler.png"
+			}
+		},
+		{
+			"name": "Tim, Who Actually Only Copied The Project Files Onto His USB",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Tim, Who Actually Only Copied The Project Files Onto His USB.png"
+			}
+		},
+		{
+			"name": "Alchemize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Alchemize.png"
+			}
+		},
+		{
+			"name": "Maddened Magnetologist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Werewolf ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Maddened Magnetologist_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Maddened Magnetologist_back.png"
+				}
+			}
+		},
+		{
+			"name": "Last-Laugh Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Hyena Ooze ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Last-Laugh Experiment.png"
+			}
+		},
+		{
+			"name": "Davao Gro's Lab",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Davao Gro's Lab.png"
+			}
+		},
+		{
+			"name": "Obsession for Balance",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Obsession for Balance.png"
+			}
+		},
+		{
+			"name": "Night Rider Desperado",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Night Rider Desperado.png"
+			}
+		},
+		{
+			"name": "Yaka, Cruel Curator",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Planeswalker — Yaka ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Yaka, Cruel Curator.png"
+			}
+		},
+		{
+			"name": "AMod-30, Thrall of the Moligarch",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Mole ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/AMod-30, Thrall of the Moligarch.png"
+			}
+		},
+		{
+			"name": "Self-Driver",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Pilot ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Self-Driver.png"
+			}
+		},
+		{
+			"name": "Sernce, Off the Deep End",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Sernce ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sernce, Off the Deep End.png"
+			}
+		},
+		{
+			"name": "Unprecedented Breakthrough",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Sorcery — Lesson ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Unprecedented Breakthrough.png"
+			}
+		},
+		{
+			"name": "Introduction to Cataclym",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery — Lesson ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Introduction to Cataclym.png"
+			}
+		},
+		{
+			"name": "Hyena Opportunist",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hyena ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Hyena Opportunist.png"
+			}
+		},
+		{
+			"name": "Quantum Computation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Quantum Computation.png"
+			}
+		},
+		{
+			"name": "Chlorine Elemental",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Chlorine Elemental.png"
+			}
+		},
+		{
+			"name": "Determined Delver",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Determined Delver.png"
+			}
+		},
+		{
+			"name": "The Master, Multiplied",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Master ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/The Master, Multiplied.png"
+			}
+		},
+		{
+			"name": "Avogadranus",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Mole ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Avogadranus.png"
+			}
+		},
+		{
+			"name": "Human Trials",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Human Trials.png"
+			}
+		},
+		{
+			"name": "Down the Rabbit Hole",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Down the Rabbit Hole.png"
+			}
+		},
+		{
+			"name": "Magmatic Grasp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Magmatic Grasp.png"
+			}
+		},
+		{
+			"name": "And Science Marches On",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/And Science Marches On.png"
+			}
+		},
+		{
+			"name": "Echo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Echo.png"
+			}
+		},
+		{
+			"name": "Ragtag Ensemble",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Bard ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Ragtag Ensemble.png"
+			}
+		},
+		{
+			"name": "Sage",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Sage.png"
+			}
+		},
+		{
+			"name": "Lucky",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Dog ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Lucky.png"
+			}
+		},
+		{
+			"name": "Personal Shielding",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Personal Shielding.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Elemental.png"
+			}
+		},
+		{
+			"name": "Alien Advisor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Alien Advisor ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Alien Advisor.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Cteature — Elemental",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Elemental.png"
+			}
+		},
+		{
+			"name": "Zhliss Tsa, Planetary Guide Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Zhliss ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Zhliss Tsa, Planetary Guide Emblem.png"
+			}
+		},
+		]
+	[WildcardSlot(15)]
+	1 In the Moligarch's Grasp
+	1 Snole
+	1 Hack the Frame
+	1 Spare Parts Scavenger
+	1 Lucky, Among the Stars
+	1 Mox Mole
+	1 Happy Cactus
+	1 Giganta-mole
+	1 Graph Mole
+	1 Implantability
+	1 Obtain Access
+	1 Meticulous Molechanic
+	1 Vector Jumper
+	1 Clone-Specimen Chamber
+	1 Confined Basilica
+	1 Element Laboratory
+	1 Exavation Pit
+	1 Impact Coliseum
+	1 Memorial Hallway
+	1 Refitting Forge
+	1 Research Auditorium
+	1 Server Storeroom
+	1 Starlit Observatory
+	1 Vigorous Haven
+	1 The Cosmos Awaits
+	1 Eternal Cosmologist
+	1 Regrafting Ronin
+	1 Breaking the Law of Causality
+	1 Fossil Fighter
+	1 Rediscovered Relic
+	1 Symbiosis Crustacean
+	1 Scrapped Scrapper
+	1 Sozeb, Exploiter of Worlds
+	1 Whirler Disruptor
+	1 Herbert of the Tweed Cardigan
+	1 Arsenic Elemental
+	1 Resurrection Module
+	1 Sara, the Cutting Edge
+	1 Cameleopardis Gets Lit
+	1 Angel of Momentum
+	1 Antique Messenger
+	1 Tempest, Drawn to Science
+	1 Mountaintop Surveyor
+	1 Champion of the Pair-Ish
+	1 Anatomy Analyst
+	1 Gray Merchant of Algebra
+	1 Tennessine Elemental
+	1 MoleDayBot
+	1 Sufficiently Advanced Technology
+	1 Bull Moose
+	1 Bustle of the Medina
+	1 Crucible Blade
+	1 Dance the Night Away
+	1 Geothermal Excess
+	1 It Takes Two
+	1 Outrigger's Catch
+	1 Patchwork Gift
+	1 Securities Trader
+	1 Temple of Flame
+	1 Zhliss Tsa, Planetary Guide
+	1 Chaos Theory
+	1 Heavy-Duty Excavator
+	1 Digging Doom Engine
+	1 Frankenstein's Profession
+	1 Morbid Alchemist
+	1 Lab Accident
+	1 Melting Elemental
+	1 Theory of Everything
+	1 Star Staring Eagle
+	1 The End of the World
+	1 Inventing Spiral
+	1 Intrepid Biologist
+	1 Fermi Paradox
+	1 Aha! Moment
+	1 Starstrike
+	1 Child of the Stars
+	1 Mollusk Caller
+	1 A Good Pair Of Running Shoes
+	1 Space Oddity
+	1 Uranium Elemental
+	1 Breached Door
+	1 The First Sketch
+	1 Deep-Cavern Mole
+	1 Alchemoleist
+	1 Terror of the Molehill
+	1 Break Room
+	1 Call of Creation
+	1 Fragment of the Progeniraffe
+	1 Blind Excavator
+	1 Herbert Sends His Regards
+	1 Molehill Out of a Mountain
+	1 Ravenous Talpa
+	1 Approach Talpidaevinity
+	1 Herbert of the Patchy Overalls
+	1 Little Guy to Little Guy Communication
+	1 Marine Biologist Profession
+	1 End of Time to Begin Anew
+	1 Sage of Vast Reaches
+	1 Lynx, Chief Science Officer
+	1 Bright New Day
+	1 Lucky's Last Journey
+	1 C
+	1 J3nny, Senior Recycler
+	1 Curiosity, On A Mission
+	1 Hedron Satellites
+	1 Elefungus
+	1 Camelopardis, the Overseer
+	1 Compulsive Interest
+	1 Muse of the Stars
+	1 Handy Shovel
+	1 Telephone Tank
+	1 1nf3ct10n
+	1 Sword of Soldiers and Scientists
+	1 Para Bolas, Uncharted Evil
+	1 ExecuteEXE
+	1 Kraboi, Benthic Bestie
+	1 The Master Goes To War
+	1 The Large Hadron Collider
+	1 Audioritualists
+	1 Moles Most Beautiful
+	1 Enigmatic Chemist
+	1 Arcane Tide
+	1 Galvanizing Engineer
+	1 Biologeist
+	1 Lumped Labour
+	1 Pillars of Tomorrow
+	1 Engineering Grad Student
+	1 Parasite's Puppet
+	1 Moleicious Edict
+	1 Omnidrone Technician
+	1 Oxygen Elemental
+	1 Netsearcher
+	1 Ancient Agriculture
+	1 Glitch, In the Matrix
+	1 Data-Stack Curator
+	1 Agent 404
+	1 Bloodflow
+	1 Pyromolecer
+	1 Lothamey, Ruler of Elements
+	1 Texas Instruments Android
+	1 Music of the Moles
+	1 Ecological Apocalypse
+	1 Factorialize
+	1 Vyn'Ral, Apocalypse Crafter
+	1 Uncover Conspiracy
+	1 Ecology Tutor
+	1 Deus Ex Machina
+	1 Celestial Aligner
+	1 Commanding Conductor
+	1 Earthshake Trumpeteer
+	1 Naut, Suited Up
+	1 Yaka, Reborn Atrocity
+	1 Faster-Than-Light Traveller
+	1 Entropy
+	1 Hello, World
+	1 Colossal Dreadnought
+	1 Mind–Body Problem
+	1 Ette, Retired Madwoman
+	1 Stardust Voyager
+	1 Pascal's School
+	1 Catalyst Expert
+	1 Tetanus
+	1 Chemicritter Hydron Hawk
+	1 Star Room
+	1 Molly's Findings
+	1 Abandoned Tower
+	1 Cenotaph of the Fallen
+	1 Dais of Naught
+	1 Edge of the Hellfire
+	1 Fallout Zone
+	1 Gate to Calamity
+	1 Mortal Caverns
+	1 Outlying Wastes
+	1 Ruined Power Plant
+	1 Spent Fuel Pool
+	1 MORTIS v4.10
+	1 Satellite Technician
+	1 Automated Jurisprudence
+	1 Carcinisation
+	1 Square-Cube Law
+	1 Levels of the Food Chain
+	1 Atlas, Ketriel's Opus
+	1 Jackel's Irregulars
+	1 Robot Slayer
+	1 Shop Class
+	1 Command Line
+	1 Back to School
+	1 Case of the Flu
+	1 Treasured Tyrannosaur
+	1 Averian's Devoted
+	1 Scion of Null Hypotheses
+	1 Ragavan Typewriter Theory
+	1 Unnecessary Experiment
+	1 Unethical Discovery
+	1 Model of Impulsion
+	1 Model of Creation
+	1 Heavenly Headmaster
+	1 Eager Student
+	1 Evolution Father's Tortoise
+	1 Endoparasitic Wrigglers
+	1 Intergalactic Revel
+	1 Quicksilver Warframe
+	1 Aki, Starstruck
+	1 Voyager's Journey
+	1 Creation Myth
+	1 Pondside Expedition
+	1 The Net of Things
+	1 Cosmic Conduit
+	1 Archimedes of Syracuse
+	1 Botanical Dimension
+	1 Collapsing Dimension
+	1 Conflicted Dimension
+	1 Distorted Dimension
+	1 Fissive Dimension
+	1 Geometric Dimension
+	1 Inhospitable Dimension
+	1 Intrusive Dimension
+	1 Reverent Dimension
+	1 Transparent Dimension
+	1 Dumpster Divers
+	1 Haywire Superposition
+	1 Twinbrain Brawlers
+	1 Progenitor Mammal
+	1 Slow Path to Moleville
+	1 Sightless Scrounger
+	1 Join the Migration
+	1 Mars Rover
+	1 Rule of Three
+	1 Unprecedented Outcome
+	1 Moligarch's Roboticist
+	1 Dangerous Study
+	1 High Speed Rail
+	1 Camelopardis' Merriment
+	1 Hotwire
+	1 Cloudpiercer Herd
+	1 Kraboi, El Cangrejo Inmortal
+	1 Codename COUCH
+	1 Double Helix
+	1 The Master, Transcendent
+	1 Subterranean Carrier
+	1 Anzrag and Avogadranus
+	1 Volumes of Syacruse
+	1 Gathering of the Minds
+	1 Reclaimed Landscape
+	1 I Know Where The Light Goes
+	1 The Master, Formed Anew
+	1 A World Beyond Humanity
+	1 The Master's Domain
+	1 Model of Evolution
+	1 Model of Analysation
+	1 Elusive Okapi
+	1 Curiosity, Traveling Probe
+	1 Dolphin Emulator
+	1 Wandering Tallneck
+	1 Wrenn and 602E23
+	1 Hydrogen Dragon
+	1 Sink into Tar
+	1 Swords to Textbooks
+	1 Deep Research
+	1 Farademi the Collector
+	1 Digitize
+	1 The Burn Spell of Tomorrow
+	1 Satoru's Katana
+	1 Heirloom Weapon
+	1 Ghabanil Honor Guard
+	1 We Were Here
+	1 Scrapyard Surprise
+	1 Magnetic Architect
+	1 Electron Microscope
+	1 Bismuther Elemental
+	1 Exoplanet Surveyor
+	1 Copper Elemental
+	1 Grazhi and Mr. Snuffles
+	1 Young Physicist
+	1 Early Experiment
+	1 Ratio Hunter
+	1 Herd Protector
+	1 Lab Rat
+	1 Airship Genesis IV
+	1 Morphic Bridge
+	1 Bismuth Elemental
+	1 J3nny, Refraction Researcher
+	1 Eager Assistant
+	1 Voyager, Lost in Space
+	1 Marco, Astrobotanist
+	1 The Outlaws of Gravity
+	1 Dissections Expert
+	1 Savage Hyena
+	1 Mole in the Ranks
+	1 Absolute Zero
+	1 Anong, Audiowave Rider
+	1 Terraformer Naut
+	1 Evil Scientist
+	1 Origins of Computation
+	1 SRI Policy
+	1 Relana, Fossil Hunter
+	1 Ette Fletcher, Experimentalist
+	1 Essence Diffraction
+	1 Voyager, Black Hole Envoy
+	1 Skullshell Recluse
+	1 Grist, Unextinction Event
+	1 Accompanying Planet
+	1 Artificial Planet
+	1 Fractured Planet
+	1 Lightbound Planet
+	1 Sigiled Planet
+	1 Steaming Planet
+	1 Supermassive Planet
+	1 Terraformed Planet
+	1 Uncanny Planet
+	1 Volcanic Planet
+	1 Solemn Surveyor
+	1 Rumbling Burrow
+	1 SRI Collector
+	1 Covert Medic
+	1 The Far Reaches
+	1 Lynx, In the Field
+	1 Gold Elemental
+	1 Ad Astra Per Aspera
+	1 Search for Signals
+	1 Contraband Catcher
+	1 Indulgent Predator
+	1 Final Frontier
+	1 Perfect Solvent
+	1 3D Printer
+	1 Maria, Master of Medicine
+	1 Bone Excavator
+	1 Nebulous Impulse
+	1 Magnum Opus
+	1 Dawnlit Savannah
+	1 Night at the Museum
+	1 Thorium Colossus
+	1 Caitlyn Zhliss, Exoarchaeologist
+	1 Erlenmeyer Flask
+	1 Defective Compiler
+	1 Tim, Who Actually Only Copied The Project Files Onto His USB
+	1 Alchemize
+	1 Maddened Magnetologist
+	1 Last-Laugh Experiment
+	1 Davao Gro's Lab
+	1 Obsession for Balance
+	1 Night Rider Desperado
+	1 Yaka, Cruel Curator
+	1 AMod-30, Thrall of the Moligarch
+	1 Self-Driver
+	1 Sernce, Off the Deep End
+	1 Unprecedented Breakthrough
+	1 Introduction to Cataclym
+	1 Hyena Opportunist
+	1 Quantum Computation
+	1 Chlorine Elemental
+	1 Determined Delver
+	1 The Master, Multiplied
+	1 Avogadranus
+	1 Human Trials
+	1 Down the Rabbit Hole
+	1 Magmatic Grasp
+	1 And Science Marches On
+	1 Echo
+	1 Ragtag Ensemble
+	1 Zhliss Tsa, Planetary Guide Emblem
+	
