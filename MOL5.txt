@@ -3054,7 +3054,7 @@
 		{
 			"name": "Voyager, Black Hole Envoy",
 			"rarity": "mythic",
-			"mana_cost": "{3}{H/B}{H/B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Artifact Planeswalker — Voyager ",
 			"collector_number": "138",
 			"image_uris": {
