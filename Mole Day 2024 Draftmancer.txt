@@ -3749,7 +3749,7 @@
 			"name": "Zhliss Tsa, Planetary Guide Emblem",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Emblem — Zhliss ",
+			"type": "Token Emblem — Zhliss ",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/DrChillbrain/MoleDay2024/main/MOL5-files/Zhliss Tsa, Planetary Guide Emblem.png"
